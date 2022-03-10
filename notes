@@ -1,0 +1,16 @@
+Notes:
+->Api for searching users by username sorted by no of followers
+http://localhost/search/user/shalugarg
+
+->Api for searching repositories by username
+http://localhost/search/repos/shalugarg
+
+->Logging is enabled in the project and you will see them being logged into your
+storage/logs/laravel.log file.
+
+->Api is documented and we have used Laravel API Documentation Generator.The document can be found in apidoc.php file in your config folder.
+
+->In case of ample time we can use swagger open api documentation method
+for properly documenting the Api's.
+
+->We have created the UI as well for both the screens but not shared.
